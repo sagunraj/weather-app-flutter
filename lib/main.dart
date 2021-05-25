@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import './const.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import './body.dart';
 
 void main() => runApp(MyApp());
